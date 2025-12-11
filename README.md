@@ -13,8 +13,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 🛠️ How to Use This Project
 Clone the repository
 
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/RajasekharBhumireddy/customer_behavior_analysis.git
+cd customer_behavior_analysis
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
